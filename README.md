@@ -1,5 +1,16 @@
 # 🚗 Car Price Prediction – Full-Stack Machine Learning Application
 
+## 🔗 Live Project Links
+
+- 🌐 **Streamlit Web App (Frontend)**  
+  👉 https://car-price-prediction-fzmbdxbbhwzpc8hcdun67d.streamlit.app/
+  
+- ⚙️ **FastAPI Backend (Swagger Docs)**  
+  👉 https://car-price-prediction-0f8s.onrender.com/docs
+
+- 📂 **GitHub Repository**  
+  👉 https://github.com/vaishnavikhairnar31/car-price-prediction
+
 This project is a **full-stack machine learning application** that predicts the **selling price of second-hand cars** using real-world features such as year of purchase, fuel type, transmission, number of owners, and kilometers driven.
 
 I built this project **end-to-end** to understand how a machine learning model is **trained, deployed as an API, and consumed by a frontend application** in a real-world setup.
