@@ -5,7 +5,11 @@ from model import predict_price, load_artifacts
 from fastapi.middleware.cors import CORSMiddleware
 
 
-app = FastAPI(title="Car Price Prediction API", version="1.0")
+app = FastAPI(
+    title="Car Price Prediction API",
+    description="FastAPI backend for car price prediction",
+    version="1.0.0"
+)
 
 
 app.add_middleware(
